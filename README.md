@@ -1,5 +1,10 @@
 # Aprendiendo git
 
+## Verificando estado del repositorio
+```bash
+git status
+```
+
 ## Realizando cambios
 Estos 3 pasos siempre deben realizarse para subir un cambio
 
