@@ -31,4 +31,5 @@ Si alguien realizó un cambio en el repositorio remoto (el de github) debemos ac
 git pull
 ```
 
-
+## Guía de Markdown
+Este README está escrito en markdown. Puedes ver ejemplos de cómo escribir en Markdown [aquí](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
