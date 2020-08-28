@@ -23,7 +23,7 @@ git commit -m "Escribir un comentario aqui"
 git push
 ```
 
-## Sincronizando con github
+## Sincronizando cambios remotos en GitHub
 
 Si alguien realizó un cambio en el repositorio remoto (el de github) debemos actualizarlo en nuestro computador con el siguiente comando:
 
